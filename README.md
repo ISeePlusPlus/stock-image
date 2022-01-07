@@ -1,4 +1,4 @@
-##Infinite scroller project.##
+##Infinite scroller project.
 
 Recive curated stock photos if no search value is given.
 If given a search value, recive photos that match the value.
